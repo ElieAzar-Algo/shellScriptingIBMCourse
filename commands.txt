@@ -1,0 +1,4 @@
+## find the path to the interpreter
+>> which bash
+
+
